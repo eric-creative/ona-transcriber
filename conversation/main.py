@@ -2,7 +2,7 @@ from elevenlabs.client import ElevenLabs
 import elevenlabs
 
 client = ElevenLabs(
-    api_key="sk_1fb8c887f0ae988b40c932c2e147d49ba950c691abb8fc00"
+    api_key=""
 )
 
 text = "Hello wold"
